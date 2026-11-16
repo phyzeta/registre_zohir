@@ -103,7 +103,7 @@ if(request.getParameter("boto")!=null){
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>APARTAT MODIFICAT</title>
 </head>
 <body>
 	<form method="POST" action="#">
